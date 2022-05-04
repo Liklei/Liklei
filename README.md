@@ -50,7 +50,7 @@
 
 <hr>
 
-### Let's Connect :handshake:
+### :handshake: Let's Connect 
 <p align="left">
   <a href="mailto:lkl641818@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/dirlllee/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
