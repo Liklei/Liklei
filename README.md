@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey，Welcome Lance’s Place 👋
 
 <!--
 **Liklei/Liklei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Languages & Tools
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/[ICON Flutter].svg" />
+
+
