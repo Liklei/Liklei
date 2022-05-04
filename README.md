@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 #### Languages & Tools
-<img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
-
+![nodejs.com](<img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
+)
 
