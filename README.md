@@ -6,8 +6,9 @@
 
 ### :space_invader: &nbsp;About Me
 
-- 🤡 前端小兵，擅长技术栈TypeScript、Electron、Vue3\react
-- 🌱 热爱美食与动漫、前端发展与科学技术
+- 🤡 前端小兵目前在职Intsig，擅长技术栈TypeScript、Electron、Vue3/react；
+- ⚡  目标拥有自己独立的APP、WEB和客户端；
+- 🌱 热爱美食与动漫、前端发展与科学技术；
 
 <hr>
 
