@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 -->
 
 #### Languages & Tools
-![nodejs.com](<img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
-)
+<img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
+<img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/electron.svg" />
+<img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/electron.svg" />
+<img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" />
+<img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" />
+
 
