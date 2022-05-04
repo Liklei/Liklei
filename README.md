@@ -1,4 +1,6 @@
-### Hey，Welcome Lance’s Place 👋
+### Hey 👋，Welcome Lance’s Place 
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=#444444&right_color=#666666)
 
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Languages & Tools
+#### 🛠 Languages & Tools
 <a href="" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" /></a>
 <a href="https://nodejs.org/dist/latest-v16.x/docs/api/" target="_blank"><img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" /></a>
 <a href="https://www.electronjs.org/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/electron.svg" /></a>
