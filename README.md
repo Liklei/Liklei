@@ -1,4 +1,4 @@
-## Hey 👋，Welcome Lance’s Place 
+## Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">，Welcome Lance’s Place 
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
@@ -40,7 +40,7 @@
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
 
-### ☎️ Concat Me
+### Let's Connect :handshake:
 <p align="left">
   <a href="mailto:lkl641818@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/dirlllee/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
