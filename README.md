@@ -18,13 +18,20 @@ Here are some ideas to get you started:
 -->
 
 #### Languages & Tools
-<a  href="https://nodejs.org/dist/latest-v16.x/docs/api/" target="_blank"><img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" /></a>
-<a  href="https://nodejs.org/dist/latest-v16.x/docs/api/" target="_blank"><img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/electron.svg?color=#3178C6" /></a>
+<a href="" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" /></a>
+<a href="https://nodejs.org/dist/latest-v16.x/docs/api/" target="_blank"><img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" /></a>
+<a href="https://www.electronjs.org/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/electron.svg" /></a>
+<a href="https://flutter.dev/development" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" /></a>
+<a href="https://www.tslang.cn/docs/home.html" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" /></a>
+<a href="https://react.docschina.org" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" /></a>
+<a href="https://v3.cn.vuejs.org/guide/introduction.html" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vue.svg" /></a>
+<a href="https://www.webpackjs.com" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/webpack.svg" /></a>
+<a href="https://cn.vitejs.dev" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vite.svg" /></a>
+<a href="https://www.rollupjs.com" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rollup.svg" /></a>
 
 
-<img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/electron.svg" />
-<img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" />
-<img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" />
+
+
 
 
 
