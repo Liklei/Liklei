@@ -10,6 +10,7 @@
 - 🌱 热爱美食与动漫、前端发展与科学技术
 
 <hr>
+
 ### 🛠 Languages & Tools
 <a target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" /></a>
 <a target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/yarn.svg" /></a>
