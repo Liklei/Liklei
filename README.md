@@ -1,6 +1,6 @@
 ### Hey，Welcome Lance’s Place 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=#444444&right_color=#666666)
 
 <!--
 **Liklei/Liklei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
