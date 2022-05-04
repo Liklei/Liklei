@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 -->
 
 #### Languages & Tools
-<a  href="https://nodejs.org/dist/latest-v16.x/docs/api/" target="_blank" style="color: #339933"><img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" /></a>
+<a  href="https://nodejs.org/dist/latest-v16.x/docs/api/" target="_blank"><img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" /></a>
+<a  href="https://nodejs.org/dist/latest-v16.x/docs/api/" target="_blank"><img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/electron.svg?color=#3178C6" /></a>
 
-<img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/electron.svg" />
+
 <img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/electron.svg" />
 <img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" />
 <img height="32" width="32" style="color: #339933" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" />
