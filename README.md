@@ -9,10 +9,6 @@
 - 🤡 前端小兵，擅长技术栈TypeScript、Electron、Vue3\react
 - 🌱 热爱美食与动漫、前端发展与科学技术
 
-<p align="left">
-  <a href="mailto:lkl641818@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/dirlllee/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
 
 ### 🛠 Languages & Tools
 <a target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" /></a>
@@ -43,6 +39,11 @@
 ![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;\
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
+
+### ☎️ Concat Me
+<p align="left">
+  <a href="mailto:lkl641818@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/dirlllee/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 
 <!--
